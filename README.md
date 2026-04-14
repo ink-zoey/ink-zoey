@@ -1,4 +1,1 @@
-those who tmod 👻
-[![Zoey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZenTheMod&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=cba6f7&hide_border=true&hide_title=true&height=300&area=true&area_color=cba6f7&grid=false&radius=4.5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-^ tragically innacurate graph </3\
-im working on daybreak ui [here](https://github.com/gold-meridian/daybreak-mod/tree/feat/uiconfiginterface) trust me vrister !!!
+![Zoey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ink-zoey&bg_color=000015&color=cdd6f4&line=00006F&point=B385FF&hide_border=true&custom_title=✦&height=30&grid=false)
