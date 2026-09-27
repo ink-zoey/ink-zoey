@@ -52,6 +52,22 @@
                     </td>
                 </tr>
             </table>
+            <table width="100%" align="left">
+                <tr>
+                    <td valign="center" align="left">
+                        <a href="https://github.com/energykid/Everware" title="Everware">
+                            <img src="EVERWARE.gif">
+                        </a>
+                    </td>
+                    <td valign="center" align="left" width="135">
+                        <picture valign="center">
+                            <source media="(prefers-color-scheme: dark)" srcset="EVERWARE_DEFINITION_DARK.png">
+                            <source media="(prefers-color-scheme: light)" srcset="EVERWARE_DEFINITION_LIGHT.png">
+                            <img>
+                        </picture>
+                    </td>
+                </tr>
+            </table>
         </td>
     </tr>
     <tr>
