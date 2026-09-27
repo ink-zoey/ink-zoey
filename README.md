@@ -17,7 +17,11 @@
         <th valign="center" align="left">
             THE BOOKSHELF
         </th>
-        <th valign="top" rowspan="3"></th>
+        <th valign="top" rowspan="3">
+            <a href="https://github.com/swirlier-ink/rosemary" title="𝚛𝚘𝚜𝚎𝚖𝚊𝚛𝚢">
+                 
+            </a>
+        </th>
     </tr>
     <tr>
         <td valign="bottom">
