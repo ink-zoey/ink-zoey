@@ -123,13 +123,16 @@ Unsure, I'm kinda grasping at straws, perhaps could be redone to feature the met
         </td>
     </tr>
     
-[//]: # (Short story carved into the bottom of the bookshelf, could it mean anything? Well, I guess?
-❧ '…even trees can bleed…' likely a reference to her many carvings in the forest, she doesn't let the ink dry)
+[//]: # (Short story carved into the bottom of the bookshelf, could it mean anything?
+❧ '…as the day grows long, and the flowers wild…' it's beautiful, isn't it?
+❧ '…you wouldn't think it but…' were we always bound by such fate? or is something else at play
+❧ '…remember to hold us close as fate closes in.' growing wild around stumps,
+   carved intricate, could this be a place of remembrance?)
     <tr>
         <td valign="center" align="right">
-            …with aspirations like that…                   <br/>
-            …even trees can bleed…   <br/>
-            …you'll share your story with us, won't you?      
+            …as the day grows long, and the flowers wild…             <br/>
+            …you wouldn't think it but…   <br/>
+            …remember to hold us close as fate closes in.        
         </td>
     </tr>
 </table>
