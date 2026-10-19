@@ -1,7 +1,10 @@
+<!-- ❧ Stepping behind the veil you see words trailing off the
+surface of, whatever this thing is, they read: -->
+
+<!-- Disgusting use of tables -->
 <table>
     <tr>
-
-[//]: # (Header abuse to constuct my name vertically)
+        <!-- Header abuse to construct my name vertically -->
         <th valign="top" rowspan="3">
             <h1>
                 I<br/>
@@ -19,32 +22,27 @@
         <th valign="center" align="left">
             THE BOOKSHELF
         </th>
-
-[//]: # (Right end of the bookshelf)
+        <!-- Right end of the bookshelf -->
         <th rowspan="3"/>
     </tr>
     <tr>
         <td valign="bottom">
             <table>
                 <tr>
-
-[//]: # (Obvious gold-meridian reference)
+                    <!-- Obvious gold-meridian reference -->
                     <th>
                         OF THE >HORIZON
                     </th>
-
-[//]: # (Mysterious vague header, TODO: fill out section with 8 misc mods)
+                    <!-- Mysterious vague header, TODO: fill out section with 8 misc mods -->
                     <th>
                         8 STOOD SOLUMNLY; >FORLORN
                     </th>
-
-[//]: # (vro thinks im gonna create ANY vague alias of rosemary in english lmao)
+                    <!-- ? -->
                     <th>
                         ?????
                     </th>
                 </tr>
-
-[//]: # (Mod panels are provided with accompanying Elklang name for my Elkfolk lurkers out there)
+                <!-- Mod panels are provided with accompanying Elklang name for my Elkfolk lurkers out there -->
                 <tr>
                     <td valign="bottom">
                         <table align="center">
@@ -54,8 +52,7 @@
                                         <img src="DAYBREAK.gif">
                                     </a>
                                 </td>
-
-[//]: # (Elklang defintion of Daybreak is a starburst, and reportedly the first Daybreak fanart)
+                                <!-- Elklang defintion of Daybreak is a starburst, and reportedly the first Daybreak fanart -->
                                 <td valign="center" align="left" width="135">
                                     <picture valign="center">
                                         <source media="(prefers-color-scheme: dark)" srcset="DAYBREAK_DEFINITION_DARK.png">
@@ -67,9 +64,8 @@
                         </table>
                         <table align="center">
                             <tr>
-
-[//]: # (Elklang defintion of Radiant Revival is a bit more abstract but features a moon,
-perhaps in reference to the 3D Moons that I've yet to work on 👁️)
+                                <!-- Elklang defintion of Radiant Revival is a bit more abstract but features a moon,
+                                perhaps in reference to the 3D Moons that I've yet to work on 👁️ -->
                                 <td valign="center" align="right" width="135">
                                     <picture valign="center">
                                         <source media="(prefers-color-scheme: dark)" srcset="RADIANT_REVIVAL_DEFINITION_DARK.png">
@@ -93,10 +89,9 @@ perhaps in reference to the 3D Moons that I've yet to work on 👁️)
                                         <img src="EVERWARE.gif">
                                     </a>
                                 </td>
-
-[//]: # (Elklang defintion of Everware is more vague, and lacks a unique symbol,
-the characters wrapped in brackets could perhaps be in reference to the content variety???
-Unsure, I'm kinda grasping at straws, perhaps could be redone to feature the meteor visual I made recently?)
+                                <!-- Elklang defintion of Everware is more vague, and lacks a unique symbol,
+                                the characters wrapped in brackets could perhaps be in reference to the content variety???
+                                Unsure, I'm kinda grasping at straws, perhaps could be redone to feature the meteor visual I made recently? -->
                                 <td valign="center" align="left" width="135">
                                     <picture valign="center">
                                         <source media="(prefers-color-scheme: dark)" srcset="EVERWARE_DEFINITION_DARK.png">
@@ -107,6 +102,7 @@ Unsure, I'm kinda grasping at straws, perhaps could be redone to feature the met
                             </tr>
                         </table>
                     </td>
+                    <!-- ? -->
                     <td valign="bottom">
                         <table width="100%" align="center">
                             <tr>
@@ -122,12 +118,11 @@ Unsure, I'm kinda grasping at straws, perhaps could be redone to feature the met
             </table>
         </td>
     </tr>
-    
-[//]: # (Short story carved into the bottom of the bookshelf, could it mean anything?
-❧ '…as the day grows long, and the flowers wild…' it's beautiful, isn't it?
-❧ '…you wouldn't think it but…' were we always bound by such fate? or is something else at play
-❧ '…remember to hold us close as fate closes in.' growing wild around stumps,
-   carved intricate, could this be a place of remembrance?)
+    <!-- Short story carved into the bottom of the bookshelf, could it mean anything?
+    ❧ '…as the day grows long, and the flowers wild…' it's beautiful, isn't it?
+    ❧ '…you wouldn't think it but…' were we always bound by such fate? or is something else at play
+    ❧ '…remember to hold us close as fate closes in.' growing wild around stumps,
+       carved intricate, could this be a place of remembrance? -->
     <tr>
         <td valign="center" align="right">
             …as the day grows long, and the flowers wild…             <br/>
@@ -137,5 +132,5 @@ Unsure, I'm kinda grasping at straws, perhaps could be redone to feature the met
     </tr>
 </table>
 
-[//]: # (Best thing I've ever done lowkey)
+<!-- Best thing I've ever done lowkey -->
 [<img src="RETRO_DEATH.png">](https://github.com/tModLoader/tModLoader/pull/5286)
